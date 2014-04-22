@@ -1,4 +1,4 @@
-## The first function, makeVector creates a special "matrix", 
+## The first function, makeChaceMatix creates a special "matrix", 
 ## which is really a list containing a function to
 ##
 ##   set the value of the matrix
